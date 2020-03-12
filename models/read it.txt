@@ -1,0 +1,1 @@
+Download the yolo-tiny models from link and past file in models folder
