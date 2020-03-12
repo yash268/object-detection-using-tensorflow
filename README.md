@@ -20,7 +20,7 @@ Once you have Python installed on your computer, install the following dependenc
 
 • TensorFlow
 
-$ pip install tensorflow
+$ pip install tensorflow==1.14
 
 • OpenCV
 
